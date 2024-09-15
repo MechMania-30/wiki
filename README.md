@@ -64,16 +64,13 @@ Players will start will 1000 points with which to buy planes. Then, planes start
 
 
 ## Planes:
-
-### Basic Plane:
-
- * **Cost**: 200
- * **Health**: 20 hp
- * **Turn Speed**: 15°
- * **Speed**: 2 units/turn
- * **Attack**: 1 hp
- * **Range**: 5 ft
- * **Spread**: 30°
+|Name|Cost|Health|Turn Speed|Speed|Attack|Range|Spread|
+|---|---|---|---|---|---|---|---|
+|Standard Plane|200|20 hp|15°|2 units/turn|1 hp|5 ft|30°|
+|Flying Fortress|300|40 hp|10°|1 units/turn|1 hp|8 ft|30°|
+|Thunderbird|200|10 hp|15°|2.5 units/turn|1 hp|5 ft|30°|
+|Scrapyard Rescue|100|8 hp|10°|1.5 units/turn|1 hp|4 ft|20°|
+|Pigeon|10|1 hp|30°|.5 units/turn|0 hp|0 ft|0°|
 
 # Further questions:
 If you need something clarified, don't hesitate to ask! You can contact staff in the [MechMania 30 Discord Server](https://discord.gg/knWWFKTU) through the #ask-a-question-here channel. We'll be providing help throughout the competition!
