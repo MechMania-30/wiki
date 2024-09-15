@@ -38,7 +38,7 @@ Each plane has a speed, a turning speed, health, range, and spread, and attack. 
 Each plane has an attack cone that faces in front of the plane, and any enemy planes with coordinates inside the attack cone at any point during a turn take damage equal to the attack of the plane. When a plane takes more damage than its health, it is destroyed at the end of the turn. The attack cone extends a distance of the range (r) and has a spread angle (θ) defined below.
 
 #### Collision:
-Planes also have a fixed size radius of 0.2. If two opposing planes are ever closer than both of their size radii combined, then they have collided, and both will be destroyed at the end of the turn regardless of their health. Note that friendly planes cannot collide.
+Planes also have a fixed size radius of 0.5. If two opposing planes are ever closer than both of their size radii combined, then they have collided, and both will be destroyed at the end of the turn regardless of their health. Note that friendly planes cannot collide.
 
 #### Destruction:
 When a plane collides, flies out of bounds, or is reduced to zero or less health, it is destroyed. The plane will then be removed from the map at the **end** of the turn.
