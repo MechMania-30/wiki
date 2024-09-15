@@ -64,13 +64,13 @@ Players will start will 1000 points with which to buy planes. Then, planes start
 
 
 ## Planes:
-|Name|Cost|Health|Turn Speed|Speed|Attack|Range|Spread|
-|---|---|---|---|---|---|---|---|
-|Standard Plane|200|20 hp|15°/turn|2 units/turn|1 hp|5 ft|30°|
-|Flying Fortress|300|30 hp|10°/turn|1 units/turn|1 hp|8 ft|30°|
-|Thunderbird|200|10 hp|15°/turn|2.5 units/turn|1 hp|5 ft|30°|
-|Scrapyard Rescue|100|5 hp|10°/turn|1.5 units/turn|1 hp|4 ft|20°|
-|Pigeon|10|1 hp|30°/turn|.5 units/turn|0 hp|0 ft|0°|
+|Name|Cost|Health|Turn Speed|Speed|Attack|Range|Spread|Image|
+|---|---|---|---|---|---|---|---|---|
+|Standard Plane|200|20 hp|15°/turn|2 units/turn|1 hp|5 ft|30°|<img width="50%" src="https://github.com/MechMania-30/Wiki/blob/main/assets/red_plane_outline.png">|
+|Flying Fortress|300|30 hp|10°/turn|1 units/turn|1 hp|8 ft|30°|<img width="50%" src="https://github.com/MechMania-30/Wiki/blob/main/assets/red_fortress.png">|
+|Thunderbird|200|10 hp|15°/turn|2.5 units/turn|1 hp|5 ft|30°|<img width="50%" src="https://github.com/MechMania-30/Wiki/blob/main/assets/red_thunder.png">|
+|Scrapyard Rescue|100|5 hp|10°/turn|1.5 units/turn|1 hp|4 ft|20°|<img width="50%" src="https://github.com/MechMania-30/Wiki/blob/main/assets/red_scrap.png">|
+|Pigeon|10|1 hp|30°/turn|.5 units/turn|0 hp|0 ft|0°|<img width="50%" src="https://github.com/MechMania-30/Wiki/blob/main/assets/red_pigeon.png">|
 
 # Further questions:
 If you need something clarified, don't hesitate to ask! You can contact staff in the [MechMania 30 Discord Server](https://discord.gg/knWWFKTU) through the #ask-a-question-here channel. We'll be providing help throughout the competition!
