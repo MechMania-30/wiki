@@ -60,7 +60,7 @@ A positive steer turns the plane left and causes its angle to increase, a negati
 * **Damage**: This is how much damage a plane will do to enemy planes within its damage cone.
 
 ### Starting Positions:
-Players will start will 1000 points with which to buy planes. Then, planes start at y = 45 or y = -45 depending on team, spaced evenly in the x direction.
+Players have a budget of 1000 points to buy planes with. Then, planes start at y = 45 or y = -45 depending on team, spaced evenly in the x direction.
 
 
 ## Planes:
