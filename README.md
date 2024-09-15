@@ -67,7 +67,7 @@ Players will start will 1000 points with which to buy planes. Then, planes start
 |Name|Cost|Health|Turn Speed|Speed|Attack|Range|Spread|
 |---|---|---|---|---|---|---|---|
 |Standard Plane|200|20 hp|15°|2 units/turn|1 hp|5 ft|30°|
-|Flying Fortress|300|40 hp|10°|1 units/turn|1 hp|8 ft|30°|
+|Flying Fortress|300|30 hp|10°|1 units/turn|1 hp|8 ft|30°|
 |Thunderbird|200|10 hp|15°|2.5 units/turn|1 hp|5 ft|30°|
 |Scrapyard Rescue|100|5 hp|10°|1.5 units/turn|1 hp|4 ft|20°|
 |Pigeon|10|1 hp|30°|.5 units/turn|0 hp|0 ft|0°|
