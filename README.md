@@ -19,7 +19,7 @@
 ## Overview:
 This will be a 1v1, turn-based game placed on a 2d plane. For each turn, both players will send commands to their airplanes, which then dictate how the planes fly until the next turn.
 
-Each player controls a squadron of planes, and their goal is to shoot down every plane controlled by their opponent while avoiding having their own planes being shot down. The game ends when all planes on one side have been shot down, or the game reaches 500 turns. The winner will be whoever has the greatest number of surviving planes
+Each player controls a squadron of planes, and their goal is to shoot down every plane controlled by their opponent while avoiding having their own planes being shot down. The game ends when all planes on one side have been shot down, or the game reaches 500 turns. The winner will be whoever has the greatest value of points, weighted by the percentage of the plane's remaining health. That is, a 100 cost plane with half its health remaining counts for the same number of points as a 50 cost plane with full health.
 
 ### Tiebreakers:
 Tiebreakers are in descending order
